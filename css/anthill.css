@@ -1,0 +1,13 @@
+body{
+    background-color: #f44f2b;
+}
+h1{
+    color: teal;
+}
+h2{
+    color: aquamarine;
+}
+p{
+    justify-content: center;
+    font-size: 10px;
+}
