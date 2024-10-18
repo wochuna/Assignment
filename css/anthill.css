@@ -11,3 +11,15 @@ p{
     justify-content: center;
     font-size: 10px;
 }
+.my-button {
+    background-color: teal;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.my-button:hover {
+    background-color: cyan;
+}
